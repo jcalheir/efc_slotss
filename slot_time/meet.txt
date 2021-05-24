@@ -1,0 +1,12 @@
+Ver fatores que podem influênciar
+pessoas? --- Medidas de experiência de cada operador
+Máquinas?
+Horas?
+
+Partir dataset em dia mês ano e treinar modelo para ver se ha relações
+-mês                 -> Passagem para variável ciclica / Variação periodica
+-Dia da semana       -> 
+-Feriado             -> Verificar se no dia atrás foi feriado, ou no dia anterior
+-ano                 -> 
+-mes/ano             -> Juntar numa variável
+-dia                 -> dia juliano, variável continua
